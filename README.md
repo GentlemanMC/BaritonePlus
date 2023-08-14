@@ -16,7 +16,7 @@ Baritone+ is an "extension" of the Baritone mod, built on top of Alto Clef, prov
 
 [**Baritone+ Discord Server**](https://discord.gg/f84JhhsenS)
 
-## Current Capabilities (out-dated)
+## Current Capabilities (outdated)
 
 - Obtain 400+ Items from a fresh survival world, like diamond armor, cake, and nether brick stairs
 - Dodge mob projectiles and force field mobs away while accomplishing arbitrary tasks
